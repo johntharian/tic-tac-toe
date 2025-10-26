@@ -103,7 +103,6 @@ src/
 │   └── Square.tsx        # Individual game cell
 ├── services/            # Application services
 │   ├── multiplayerService.ts  # WebSocket communication
-│   └── geminiService.ts       # AI integration (future)
 ├── types/              # TypeScript type definitions
 │   └── index.ts        # Shared type definitions
 ├── App.tsx             # Root component
